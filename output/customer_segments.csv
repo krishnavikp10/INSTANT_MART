@@ -1,0 +1,1201 @@
+﻿customer_id,city,age,total_orders,completed_orders,cancelled_orders,total_spent,average_order_value,segment
+C0001,Chennai,35,4,4,0,487.65,121.91,Regular Customer
+C0002,DELHI,31,7,6,0,4644.9,663.56,Loyal Customer
+C0003,bengaluru,18,24,22,2,3936.85,164.04,Loyal Customer
+C0004,Bengaluru,24,7,5,2,988.5,141.21,Loyal Customer
+C0005,Bengaluru,25,3,2,1,504.0,168.0,Regular Customer
+C0006, Chennai ,60,2,1,1,348.0,174.0,Regular Customer
+C0007,Hyderabad,41,19,17,1,2697.5,141.97,Loyal Customer
+C0008,CHENNAI,28,17,15,1,3351.5,197.15,Loyal Customer
+C0009,Pune,43,13,11,2,10032.1,771.7,High Value
+C0010,Delhi,47,4,3,0,450.0,112.5,Regular Customer
+C0011,chennai,280,24,21,3,3798.35,158.26,Loyal Customer
+C0012,Bengaluru,45,4,4,0,3395.3,848.83,Potential High Value
+C0013,CHENNAI,25,3,3,0,726.0,242.0,Regular Customer
+C0014,Pune,34,9,8,1,9104.9,1011.66,High Value
+C0015,Bengaluru,28,3,3,0,718.8,239.6,Regular Customer
+C0016,Pune,37,3,3,0,3546.0,1182.0,Potential High Value
+C0017,MUMBAI,52,7,5,2,7770.7,1110.1,High Value
+C0018,Delhi,31,3,3,0,206.55,68.85,Regular Customer
+C0019,Chennai,51,3,3,0,955.0,318.33,Regular Customer
+C0020,Chennai,18,20,17,2,4573.05,228.65,Loyal Customer
+C0021,Hyderabad,35,5,4,0,6482.5,1296.5,High Value
+C0022, Delhi ,44,1,1,0,190.0,190.0,Regular Customer
+C0023,CHENNAI,59,3,3,0,616.0,205.33,Regular Customer
+C0024,Delhi,26,2,2,0,2766.0,1383.0,Potential High Value
+C0025,mumbai,21,7,6,0,756.1,108.01,Loyal Customer
+C0026,Bengaluru,43,18,18,0,4756.55,264.25,Loyal Customer
+C0027,MUMBAI,45,5,5,0,1562.75,312.55,Loyal Customer
+C0028,Delhi,52,7,7,0,486.0,69.43,Loyal Customer
+C0029,hyderabad,21,0,0,0,0.0,0,New Customer
+C0030, Chennai ,25,1,1,0,159.6,159.6,Regular Customer
+C0031, Bengaluru ,38,20,18,2,2343.45,117.17,Loyal Customer
+C0032,Delhi,47,5,4,1,439.4,87.88,Loyal Customer
+C0033,Chennai,22,20,18,2,3583.25,179.16,Loyal Customer
+C0034,Bengaluru,46,22,21,1,4518.0,205.36,Loyal Customer
+C0035,Bengaluru,26,6,5,1,6591.8,1098.63,High Value
+C0036,Chennai,58,2,2,0,234.0,117.0,Regular Customer
+C0037,Pune,18,0,0,0,0.0,0,New Customer
+C0038,Chennai,18,1,1,0,48.0,48.0,Regular Customer
+C0039,Mumbai,45,17,14,2,4108.55,241.68,Loyal Customer
+C0040,Mumbai,53,3,3,0,251.5,83.83,Regular Customer
+C0041,Pune,,1,1,0,285.0,285.0,Regular Customer
+C0042,mumbai,28,2,2,0,138.6,69.3,Regular Customer
+C0043,pune,37,1,1,0,245.0,245.0,Regular Customer
+C0044,Bengaluru,22,21,17,3,3866.6,184.12,Loyal Customer
+C0045,Hyderabad,29,10,10,0,9230.9,923.09,High Value
+C0046,MUMBAI,45,3,3,0,505.4,168.47,Regular Customer
+C0047,delhi,51,1,1,0,258.0,258.0,Regular Customer
+C0048,Bengaluru,57,4,4,0,704.5,176.12,Regular Customer
+C0049,Hyderabad,36,21,17,4,3089.85,147.14,Loyal Customer
+C0050,Delhi,18,19,17,0,3207.3,168.81,Loyal Customer
+C0051,Mumbai,28,23,22,1,5819.7,253.03,High Value
+C0052,Chennai,,12,9,2,1509.8,125.82,Loyal Customer
+C0053,Mumbai,30,2,2,0,448.5,224.25,Regular Customer
+C0054,HYDERABAD,24,6,4,1,1771.35,295.23,Loyal Customer
+C0055,Hyderabad,26,1,1,0,112.0,112.0,Regular Customer
+C0056,Bengaluru,53,4,4,0,513.0,128.25,Regular Customer
+C0057,PUNE,51,2,1,1,625.0,312.5,Regular Customer
+C0058,PUNE,52,19,19,0,2988.25,157.28,Loyal Customer
+C0059,Hyderabad,52,23,21,2,3713.15,161.44,Loyal Customer
+C0060,BENGALURU,54,6,6,0,6058.4,1009.73,High Value
+C0061,MUMBAI,44,19,15,3,2579.25,135.75,Loyal Customer
+C0062,Mumbai,39,11,10,1,1359.3,123.57,Loyal Customer
+C0063,Pune,55,23,20,3,4436.2,192.88,Loyal Customer
+C0064,Bengaluru,21,6,5,0,548.85,91.48,Loyal Customer
+C0065,Chennai,44,25,23,2,2604.05,104.16,Loyal Customer
+C0066,Mumbai,22,23,23,0,3901.35,169.62,Loyal Customer
+C0067,PUNE,26,3,2,0,316.05,105.35,Regular Customer
+C0068,Chennai,56,23,21,2,2814.05,122.35,Loyal Customer
+C0069,Pune,42,2,1,1,378.0,189.0,Regular Customer
+C0070, Chennai ,37,20,17,3,3254.55,162.73,Loyal Customer
+C0071,Chennai,22,13,9,4,2676.3,205.87,Loyal Customer
+C0072,Hyderabad,47,24,22,1,5333.85,222.24,High Value
+C0073,DELHI,55,22,16,5,3682.3,167.38,Loyal Customer
+C0074,bengaluru,60,35,26,8,6753.2,192.95,High Value
+C0075,Chennai,34,22,18,4,4056.2,184.37,Loyal Customer
+C0076,Delhi,44,4,3,1,1188.8,297.2,Regular Customer
+C0077,Hyderabad,43,2,1,1,570.0,285.0,Regular Customer
+C0078,BENGALURU,53,18,16,2,3502.95,194.61,Loyal Customer
+C0079,Mumbai,25,4,4,0,603.2,150.8,Regular Customer
+C0080, Mumbai ,51,29,24,5,4802.25,165.59,Loyal Customer
+C0081,Bengaluru,52,18,17,1,3033.35,168.52,Loyal Customer
+C0082,Bengaluru,49,8,8,0,12856.2,1607.03,High Value
+C0083,Delhi,21,19,14,4,2521.95,132.73,Loyal Customer
+C0084,mumbai,21,23,22,1,5135.85,223.3,High Value
+C0085,DELHI,56,3,3,0,463.25,154.42,Regular Customer
+C0086,PUNE,37,18,17,1,2071.4,115.08,Loyal Customer
+C0087,Delhi,33,3,2,1,506.5,168.83,Regular Customer
+C0088,PUNE,32,15,12,3,2607.1,173.81,Loyal Customer
+C0089,Chennai,58,20,19,1,3043.3,152.17,Loyal Customer
+C0090,Pune,27,8,4,4,1576.55,197.07,Loyal Customer
+C0091,Hyderabad,25,7,7,0,1291.0,184.43,Loyal Customer
+C0092,CHENNAI,20,26,20,4,4297.05,165.27,Loyal Customer
+C0093,Pune,54,0,0,0,0.0,0,New Customer
+C0094,Hyderabad,29,26,20,6,5531.75,212.76,High Value
+C0095, Bengaluru ,48,7,7,0,1389.2,198.46,Loyal Customer
+C0096,BENGALURU,43,21,19,2,3786.4,180.3,Loyal Customer
+C0097, Delhi ,43,1,1,0,132.0,132.0,Regular Customer
+C0098,Bengaluru,57,8,7,0,8151.2,1018.9,High Value
+C0099,Bengaluru,49,1,1,0,84.0,84.0,Regular Customer
+C0100,Pune,32,16,16,0,2513.05,157.07,Loyal Customer
+C0101,Mumbai,36,21,20,1,2909.2,138.53,Loyal Customer
+C0102, Delhi ,56,4,4,0,4325.0,1081.25,Potential High Value
+C0103,Delhi,18,2,2,0,184.8,92.4,Regular Customer
+C0104, Hyderabad ,52,15,11,4,3665.95,244.4,Loyal Customer
+C0105,Pune,20,2,2,0,350.0,175.0,Regular Customer
+C0106,delhi,49,1,1,0,219.3,219.3,Regular Customer
+C0107,Delhi,27,2,2,0,309.0,154.5,Regular Customer
+C0108,Pune,43,31,25,3,5805.2,187.26,High Value
+C0109,pune,,4,4,0,676.4,169.1,Regular Customer
+C0110,chennai,58,3,2,1,470.55,156.85,Regular Customer
+C0111, Hyderabad ,-4,4,4,0,452.75,113.19,Regular Customer
+C0112,PUNE,28,3,3,0,912.8,304.27,Regular Customer
+C0113,Delhi,32,3,2,0,357.3,119.1,Regular Customer
+C0114,PUNE,22,5,3,2,1306.9,261.38,Loyal Customer
+C0115,Bengaluru,42,0,0,0,0.0,0,New Customer
+C0116,Hyderabad,19,2,2,0,78.85,39.42,Regular Customer
+C0117,Hyderabad,56,1,1,0,157.5,157.5,Regular Customer
+C0118,Pune,57,12,11,1,1948.45,162.37,Loyal Customer
+C0119,Bengaluru,20,25,21,4,3227.8,129.11,Loyal Customer
+C0120,Bengaluru,52,0,0,0,0.0,0,New Customer
+C0121,chennai,36,3,2,0,527.4,175.8,Regular Customer
+C0122,delhi,43,2,2,0,173.4,86.7,Regular Customer
+C0123,Chennai,41,17,15,2,2274.8,133.81,Loyal Customer
+C0124,PUNE,53,19,18,1,3289.15,173.11,Loyal Customer
+C0125,CHENNAI,20,17,15,2,2190.2,128.84,Loyal Customer
+C0126,Pune,47,27,25,2,4338.2,160.67,Loyal Customer
+C0127, Pune ,24,3,3,0,726.5,242.17,Regular Customer
+C0128,DELHI,41,18,17,1,2942.3,163.46,Loyal Customer
+C0129,BENGALURU,47,3,2,1,647.4,215.8,Regular Customer
+C0130,Mumbai,31,8,8,0,9422.4,1177.8,High Value
+C0131,Mumbai,27,20,17,2,3489.05,174.45,Loyal Customer
+C0132, Hyderabad ,60,1,1,0,60.0,60.0,Regular Customer
+C0133,Delhi,26,6,5,1,4974.05,829.01,Loyal Customer
+C0134,Bengaluru,46,24,20,3,4843.4,201.81,Loyal Customer
+C0135,Pune,48,4,3,1,736.0,184.0,Regular Customer
+C0136,Pune,38,4,4,0,5101.3,1275.33,Potential High Value
+C0137,pune,56,4,4,0,374.4,93.6,Regular Customer
+C0138, Delhi ,53,1,1,0,0.0,0.0,Regular Customer
+C0139,Mumbai,24,18,14,4,3528.05,196.0,Loyal Customer
+C0140,hyderabad,23,22,21,0,4171.55,189.62,Loyal Customer
+C0141,Bengaluru,39,4,3,1,666.5,166.62,Regular Customer
+C0142,Bengaluru,50,17,13,3,3844.1,226.12,Loyal Customer
+C0143,Pune,35,19,17,1,3829.95,201.58,Loyal Customer
+C0144,chennai,35,22,20,1,5281.85,240.08,High Value
+C0145,Pune,43,2,2,0,414.8,207.4,Regular Customer
+C0146,hyderabad,39,12,11,0,2475.3,206.28,Loyal Customer
+C0147,Delhi,,9,8,0,10028.8,1114.31,High Value
+C0148,Delhi,50,29,27,2,5190.5,178.98,High Value
+C0149,Mumbai,43,21,18,3,5536.35,263.64,High Value
+C0150, Mumbai ,38,3,3,0,248.4,82.8,Regular Customer
+C0151,pune,53,1,0,1,50.0,50.0,Regular Customer
+C0152, Chennai ,38,7,6,1,5005.55,715.08,High Value
+C0153,Delhi,57,1,1,0,80.75,80.75,Regular Customer
+C0154, Mumbai ,43,20,18,1,4804.85,240.24,Loyal Customer
+C0155,Pune,58,2,1,1,641.1,320.55,Regular Customer
+C0156,Mumbai,33,2,1,1,1038.1,519.05,Regular Customer
+C0157,Pune,58,3,3,0,446.4,148.8,Regular Customer
+C0158,PUNE,58,4,4,0,686.75,171.69,Regular Customer
+C0159, Chennai ,40,23,22,0,3724.5,161.93,Loyal Customer
+C0160,Hyderabad,23,27,22,4,6122.3,226.75,High Value
+C0161,Hyderabad,46,3,3,0,708.2,236.07,Regular Customer
+C0162,Hyderabad,46,6,6,0,4685.5,780.92,Loyal Customer
+C0163,Bengaluru,46,8,6,2,6580.5,822.56,High Value
+C0164,bengaluru,39,16,15,1,3726.4,232.9,Loyal Customer
+C0165,Chennai,34,2,2,0,480.5,240.25,Regular Customer
+C0166,Hyderabad,37,4,4,0,1402.25,350.56,Regular Customer
+C0167,Chennai,42,6,5,1,10111.15,1685.19,High Value
+C0168,delhi,19,15,13,1,3061.5,204.1,Loyal Customer
+C0169,hyderabad,22,5,5,0,1192.3,238.46,Loyal Customer
+C0170, Chennai ,29,22,21,1,5069.95,230.45,High Value
+C0171,HYDERABAD,46,4,4,0,956.6,239.15,Regular Customer
+C0172,Bengaluru,48,2,1,1,206.0,103.0,Regular Customer
+C0173,Chennai,28,20,18,2,3423.25,171.16,Loyal Customer
+C0174,Chennai,24,5,2,3,1488.0,297.6,Loyal Customer
+C0175,Bengaluru,27,21,20,0,3682.85,175.37,Loyal Customer
+C0176,mumbai,50,18,13,3,3027.1,168.17,Loyal Customer
+C0177,Delhi,59,2,2,0,357.0,178.5,Regular Customer
+C0178,chennai,48,3,3,0,2028.55,676.18,Potential High Value
+C0179,BENGALURU,53,18,12,3,2569.4,142.74,Loyal Customer
+C0180,Delhi,44,2,2,0,728.4,364.2,Regular Customer
+C0181, Hyderabad ,54,8,8,0,5513.1,689.14,High Value
+C0182,Hyderabad,60,22,21,1,3134.65,142.48,Loyal Customer
+C0183,BENGALURU,,6,5,1,723.2,120.53,Loyal Customer
+C0184,Pune,22,4,3,0,3626.6,906.65,Potential High Value
+C0185,pune,52,4,3,1,3364.7,841.17,Potential High Value
+C0186,Bengaluru,,4,3,1,3769.95,942.49,Potential High Value
+C0187,Bengaluru,52,18,14,4,3098.1,172.12,Loyal Customer
+C0188,Pune,39,7,6,0,6888.2,984.03,High Value
+C0189,Pune,29,4,3,1,638.8,159.7,Regular Customer
+C0190,PUNE,29,26,23,2,4747.0,182.58,Loyal Customer
+C0191,Pune,45,10,9,1,2182.95,218.29,Loyal Customer
+C0192,Pune,35,18,15,2,3656.2,203.12,Loyal Customer
+C0193,mumbai,28,19,17,2,4413.1,232.27,Loyal Customer
+C0194, Bengaluru ,41,4,3,1,483.25,120.81,Regular Customer
+C0195,chennai,26,7,4,3,788.45,112.64,Loyal Customer
+C0196,Mumbai,42,5,5,0,2440.7,488.14,Loyal Customer
+C0197,Pune,30,20,18,2,4019.5,200.97,Loyal Customer
+C0198,Mumbai,38,4,2,2,1943.9,485.98,Regular Customer
+C0199,MUMBAI,29,5,4,1,1091.5,218.3,Loyal Customer
+C0200,chennai,53,16,15,1,3117.95,194.87,Loyal Customer
+C0201,Bengaluru,48,18,16,1,2250.3,125.02,Loyal Customer
+C0202,Delhi,51,29,24,5,4388.15,151.32,Loyal Customer
+C0203,PUNE,25,5,5,0,934.1,186.82,Loyal Customer
+C0204,PUNE,36,4,2,1,665.8,166.45,Regular Customer
+C0205,Pune,59,23,21,1,3604.5,156.72,Loyal Customer
+C0206,Pune,,5,4,1,948.4,189.68,Loyal Customer
+C0207,Bengaluru,54,8,7,1,1345.3,168.16,Loyal Customer
+C0208, Delhi ,43,17,16,0,3693.1,217.24,Loyal Customer
+C0209,delhi,56,28,25,3,5700.0,203.57,High Value
+C0210,mumbai,24,11,9,1,933.65,84.88,Loyal Customer
+C0211,Hyderabad,0,6,4,1,5083.95,847.32,High Value
+C0212,chennai,49,6,6,0,6972.1,1162.02,High Value
+C0213,Delhi,33,23,20,1,3628.0,157.74,Loyal Customer
+C0214,Chennai,48,4,3,1,308.7,77.17,Regular Customer
+C0215,Hyderabad,41,2,2,0,512.0,256.0,Regular Customer
+C0216,Pune,22,23,22,1,4363.25,189.71,Loyal Customer
+C0217,Mumbai,43,6,4,2,5754.75,959.12,High Value
+C0218,delhi,,22,20,1,3657.15,166.23,Loyal Customer
+C0219,Pune,38,3,3,0,315.5,105.17,Regular Customer
+C0220, Chennai ,50,30,29,1,4852.55,161.75,Loyal Customer
+C0221,DELHI,55,4,4,0,1201.3,300.32,Regular Customer
+C0222,Hyderabad,55,2,1,1,742.0,371.0,Regular Customer
+C0223,pune,42,2,2,0,114.0,57.0,Regular Customer
+C0224,Hyderabad,44,7,5,2,2993.0,427.57,Loyal Customer
+C0225, Hyderabad ,21,4,3,1,656.5,164.12,Regular Customer
+C0226,delhi,52,4,4,0,366.5,91.62,Regular Customer
+C0227,PUNE,37,34,29,1,4520.55,132.96,Loyal Customer
+C0228,Chennai,48,3,2,1,603.0,201.0,Regular Customer
+C0229,Bengaluru,40,20,19,1,2984.8,149.24,Loyal Customer
+C0230,Bengaluru,59,7,6,1,5687.55,812.51,High Value
+C0231,Pune,24,2,1,0,466.1,233.05,Regular Customer
+C0232,Pune,21,19,17,1,2622.8,138.04,Loyal Customer
+C0233,pune,28,4,4,0,1903.05,475.76,Regular Customer
+C0234,Mumbai,36,5,4,1,838.0,167.6,Loyal Customer
+C0235,delhi,29,4,4,0,464.95,116.24,Regular Customer
+C0236,Hyderabad,36,4,4,0,596.6,149.15,Regular Customer
+C0237,Hyderabad,36,3,2,1,235.8,78.6,Regular Customer
+C0238,Chennai,39,10,10,0,7255.9,725.59,High Value
+C0239, Hyderabad ,30,3,3,0,213.3,71.1,Regular Customer
+C0240, Bengaluru ,29,21,18,1,3414.6,162.6,Loyal Customer
+C0241, Pune ,39,26,21,4,4374.25,168.24,Loyal Customer
+C0242,Pune,25,20,19,1,4200.9,210.04,Loyal Customer
+C0243,Pune,32,31,29,2,6666.3,215.04,High Value
+C0244,Pune,53,20,15,3,3169.9,158.5,Loyal Customer
+C0245,chennai,51,3,3,0,1097.0,365.67,Regular Customer
+C0246,delhi,30,21,19,2,3172.1,151.05,Loyal Customer
+C0247,Mumbai,49,22,19,1,2680.45,121.84,Loyal Customer
+C0248,Bengaluru,53,28,25,3,4751.05,169.68,Loyal Customer
+C0249,Chennai,,2,2,0,186.25,93.12,Regular Customer
+C0250,Bengaluru,20,5,5,0,2762.7,552.54,Loyal Customer
+C0251,chennai,42,23,20,3,3809.35,165.62,Loyal Customer
+C0252,Bengaluru,26,16,15,1,3366.2,210.39,Loyal Customer
+C0253,MUMBAI,52,5,4,1,967.8,193.56,Loyal Customer
+C0254,mumbai,,5,3,1,381.4,76.28,Loyal Customer
+C0255,Delhi,56,29,28,1,5372.0,185.24,High Value
+C0256,Bengaluru,21,21,20,1,3087.35,147.02,Loyal Customer
+C0257,BENGALURU,38,3,3,0,237.3,79.1,Regular Customer
+C0258,Bengaluru,29,22,20,1,3219.05,146.32,Loyal Customer
+C0259,delhi,51,5,5,0,959.0,191.8,Loyal Customer
+C0260, Hyderabad ,32,13,11,2,2697.0,207.46,Loyal Customer
+C0261,Delhi,26,19,16,2,2158.6,113.61,Loyal Customer
+C0262,Mumbai,30,3,3,0,739.0,246.33,Regular Customer
+C0263,CHENNAI,53,21,19,2,5112.2,243.44,High Value
+C0264,PUNE,25,6,4,2,5392.65,898.77,High Value
+C0265, Bengaluru ,38,5,5,0,432.2,86.44,Loyal Customer
+C0266,BENGALURU,24,1,1,0,15.0,15.0,Regular Customer
+C0267,Hyderabad,32,8,7,1,13444.3,1680.54,High Value
+C0268,Mumbai,36,20,17,3,2984.95,149.25,Loyal Customer
+C0269,Mumbai,39,2,1,0,717.5,358.75,Regular Customer
+C0270,Chennai,52,15,15,0,2722.6,181.51,Loyal Customer
+C0271,Mumbai,,4,4,0,7488.3,1872.07,Potential High Value
+C0272,Hyderabad,,18,17,1,2632.9,146.27,Loyal Customer
+C0273, Hyderabad ,60,5,5,0,903.5,180.7,Loyal Customer
+C0274,Chennai,35,1,1,0,2698.2,2698.2,Potential High Value
+C0275,delhi,30,15,10,3,3396.15,226.41,Loyal Customer
+C0276,Pune,54,2,2,0,114.0,57.0,Regular Customer
+C0277,pune,23,2,1,1,127.5,63.75,Regular Customer
+C0278,CHENNAI,45,3,3,0,1534.5,511.5,Regular Customer
+C0279,Hyderabad,54,2,2,0,250.0,125.0,Regular Customer
+C0280,CHENNAI,,5,4,1,2768.25,553.65,Loyal Customer
+C0281,Pune,42,19,19,0,2379.15,125.22,Loyal Customer
+C0282,Hyderabad,21,30,26,4,4385.25,146.17,Loyal Customer
+C0283, Mumbai ,,2,2,0,408.0,204.0,Regular Customer
+C0284,Bengaluru,29,3,2,1,1129.0,376.33,Regular Customer
+C0285, Bengaluru ,35,5,3,2,436.1,87.22,Loyal Customer
+C0286,Mumbai,46,5,4,1,1936.0,387.2,Loyal Customer
+C0287,Hyderabad,44,27,19,7,4076.85,150.99,Loyal Customer
+C0288,hyderabad,36,2,1,0,283.2,141.6,Regular Customer
+C0289,DELHI,35,17,15,2,3418.45,201.09,Loyal Customer
+C0290,hyderabad,22,27,23,3,4852.2,179.71,Loyal Customer
+C0291, Delhi ,18,12,11,1,14006.6,1167.22,High Value
+C0292,PUNE,59,3,3,0,1012.0,337.33,Regular Customer
+C0293, Mumbai ,38,17,16,0,3024.05,177.89,Loyal Customer
+C0294,hyderabad,43,25,21,3,4330.85,173.23,Loyal Customer
+C0295,Delhi,47,2,2,0,100.2,50.1,Regular Customer
+C0296,Chennai,33,3,2,1,2925.5,975.17,Potential High Value
+C0297,Chennai,43,17,13,3,3134.15,184.36,Loyal Customer
+C0298,Pune,52,26,22,4,4891.9,188.15,Loyal Customer
+C0299,delhi,20,6,5,0,5147.3,857.88,High Value
+C0300, Bengaluru ,50,4,4,0,4099.75,1024.94,Potential High Value
+C0301, Bengaluru ,50,2,2,0,573.5,286.75,Regular Customer
+C0302, Delhi ,27,4,3,0,854.2,213.55,Regular Customer
+C0303,Bengaluru,46,7,6,1,4588.15,655.45,Loyal Customer
+C0304,Delhi,33,3,3,0,360.25,120.08,Regular Customer
+C0305,Chennai,58,24,21,2,4680.9,195.04,Loyal Customer
+C0306,MUMBAI,55,5,3,2,1496.2,299.24,Loyal Customer
+C0307,bengaluru,22,3,2,1,456.2,152.07,Regular Customer
+C0308,Delhi,49,7,6,1,11169.6,1595.66,High Value
+C0309,hyderabad,47,28,25,3,4835.35,172.69,Loyal Customer
+C0310, Delhi ,33,2,1,1,778.65,389.32,Regular Customer
+C0311,Mumbai,150,10,7,3,6373.65,637.37,High Value
+C0312,mumbai,46,8,8,0,6095.2,761.9,High Value
+C0313,Pune,50,18,17,1,2888.7,160.48,Loyal Customer
+C0314,BENGALURU,,24,18,5,4416.3,184.01,Loyal Customer
+C0315,hyderabad,47,10,10,0,1982.1,198.21,Loyal Customer
+C0316,HYDERABAD,52,4,4,0,4045.0,1011.25,Potential High Value
+C0317, Bengaluru ,59,25,20,3,4082.15,163.29,Loyal Customer
+C0318,Pune,25,3,3,0,475.8,158.6,Regular Customer
+C0319,Bengaluru,31,1,1,0,180.0,180.0,Regular Customer
+C0320,Delhi,36,5,5,0,2861.2,572.24,Loyal Customer
+C0321, Pune ,59,4,2,2,609.2,152.3,Regular Customer
+C0322,Delhi,43,19,17,2,5201.0,273.74,High Value
+C0323, Delhi ,23,2,1,1,188.0,94.0,Regular Customer
+C0324, Hyderabad ,23,5,4,0,6142.8,1228.56,High Value
+C0325,Hyderabad,31,4,3,0,1338.4,334.6,Regular Customer
+C0326,Pune,39,15,14,1,2753.0,183.53,Loyal Customer
+C0327,DELHI,28,23,21,2,3504.8,152.38,Loyal Customer
+C0328, Pune ,59,2,2,0,331.5,165.75,Regular Customer
+C0329,Delhi,59,4,3,1,2425.0,606.25,Potential High Value
+C0330,Pune,31,5,4,1,548.65,109.73,Loyal Customer
+C0331,CHENNAI,25,7,6,1,6723.25,960.46,High Value
+C0332,Delhi,24,9,9,0,11806.4,1311.82,High Value
+C0333,pune,59,1,1,0,718.2,718.2,Regular Customer
+C0334,Chennai,58,19,18,1,2036.35,107.18,Loyal Customer
+C0335,MUMBAI,55,4,4,0,6720.9,1680.22,Potential High Value
+C0336,Pune,53,7,6,1,684.9,97.84,Loyal Customer
+C0337, Delhi ,50,17,15,2,2135.35,125.61,Loyal Customer
+C0338,bengaluru,56,20,17,2,4550.85,227.54,Loyal Customer
+C0339,Chennai,44,3,2,1,268.3,89.43,Regular Customer
+C0340,Bengaluru,20,1,1,0,314.1,314.1,Regular Customer
+C0341,CHENNAI,45,27,26,0,4376.05,162.08,Loyal Customer
+C0342,Pune,27,19,19,0,3631.15,191.11,Loyal Customer
+C0343,Hyderabad,21,7,7,0,1323.5,189.07,Loyal Customer
+C0344,Mumbai,60,19,17,0,3167.7,166.72,Loyal Customer
+C0345, Chennai ,34,20,20,0,2623.2,131.16,Loyal Customer
+C0346,Delhi,22,21,18,1,3064.05,145.91,Loyal Customer
+C0347,Pune,54,7,7,0,3426.85,489.55,Loyal Customer
+C0348, Delhi ,,33,32,0,6014.35,182.25,High Value
+C0349,BENGALURU,20,3,3,0,249.0,83.0,Regular Customer
+C0350,Pune,35,4,4,0,472.3,118.08,Regular Customer
+C0351,Bengaluru,51,3,1,1,1711.0,570.33,Regular Customer
+C0352,Bengaluru,53,27,25,2,3417.0,126.56,Loyal Customer
+C0353,mumbai,55,19,19,0,2431.25,127.96,Loyal Customer
+C0354,Chennai,32,0,0,0,0.0,0,New Customer
+C0355,Delhi,37,27,25,1,4343.6,160.87,Loyal Customer
+C0356,Delhi,35,3,2,1,664.0,221.33,Regular Customer
+C0357,hyderabad,50,5,5,0,1021.1,204.22,Loyal Customer
+C0358,Bengaluru,33,3,3,0,698.8,232.93,Regular Customer
+C0359,Mumbai,26,25,21,2,5079.65,203.19,High Value
+C0360,DELHI,52,17,12,5,3889.05,228.77,Loyal Customer
+C0361,bengaluru,37,5,4,0,4377.6,875.52,Loyal Customer
+C0362,Chennai,43,3,3,0,903.75,301.25,Regular Customer
+C0363,chennai,53,0,0,0,0.0,0,New Customer
+C0364,HYDERABAD,26,3,3,0,730.5,243.5,Regular Customer
+C0365,bengaluru,22,2,2,0,96.0,48.0,Regular Customer
+C0366, Chennai ,28,1,1,0,33.6,33.6,Regular Customer
+C0367,Chennai,31,16,15,0,1982.5,123.91,Loyal Customer
+C0368,CHENNAI,36,4,4,0,709.0,177.25,Regular Customer
+C0369, Pune ,59,9,8,1,8029.25,892.14,High Value
+C0370,mumbai,40,20,18,2,2844.45,142.22,Loyal Customer
+C0371,Mumbai,35,22,19,2,5132.05,233.27,High Value
+C0372,Hyderabad,33,9,6,3,8286.3,920.7,High Value
+C0373,Chennai,29,3,3,0,926.0,308.67,Regular Customer
+C0374,bengaluru,54,8,7,1,1696.0,212.0,Loyal Customer
+C0375,delhi,32,8,6,1,6375.75,796.97,High Value
+C0376,chennai,26,3,2,0,536.3,178.77,Regular Customer
+C0377,Pune,25,4,4,0,980.6,245.15,Regular Customer
+C0378,Pune,39,21,19,1,4081.65,194.36,Loyal Customer
+C0379,Pune,53,4,4,0,1002.1,250.53,Regular Customer
+C0380,chennai,36,6,6,0,5810.6,968.43,High Value
+C0381,Bengaluru,57,24,21,3,4001.3,166.72,Loyal Customer
+C0382,CHENNAI,28,24,23,1,4826.5,201.1,Loyal Customer
+C0383,Delhi,40,21,18,2,3794.25,180.68,Loyal Customer
+C0384,Delhi,44,26,26,0,6207.9,238.77,High Value
+C0385,CHENNAI,32,14,10,3,2680.7,191.48,Loyal Customer
+C0386, Chennai ,39,3,2,1,928.35,309.45,Regular Customer
+C0387,chennai,19,1,1,0,700.0,700.0,Regular Customer
+C0388,BENGALURU,44,13,11,1,1784.75,137.29,Loyal Customer
+C0389,delhi,53,5,4,1,3299.35,659.87,Loyal Customer
+C0390,PUNE,56,3,2,0,604.0,201.33,Regular Customer
+C0391,Chennai,25,3,3,0,1063.2,354.4,Regular Customer
+C0392,DELHI,42,17,16,1,2752.75,161.93,Loyal Customer
+C0393, Pune ,21,4,4,0,870.1,217.53,Regular Customer
+C0394,Delhi,55,10,9,1,3341.3,334.13,Loyal Customer
+C0395,pune,54,4,4,0,412.7,103.17,Regular Customer
+C0396,Mumbai,54,22,17,5,3264.55,148.39,Loyal Customer
+C0397,pune,30,3,3,0,288.5,96.17,Regular Customer
+C0398,Hyderabad,22,19,16,3,3022.75,159.09,Loyal Customer
+C0399,mumbai,57,1,1,0,272.0,272.0,Regular Customer
+C0400,Hyderabad,24,24,22,1,5801.9,241.75,High Value
+C0401,MUMBAI,42,2,2,0,190.7,95.35,Regular Customer
+C0402,Chennai,,6,5,1,2476.0,412.67,Loyal Customer
+C0403,Delhi,19,5,5,0,1045.25,209.05,Loyal Customer
+C0404,Bengaluru,32,4,4,0,707.6,176.9,Regular Customer
+C0405,Hyderabad,30,4,3,0,1208.2,302.05,Regular Customer
+C0406,Hyderabad,28,3,3,0,911.8,303.93,Regular Customer
+C0407,Bengaluru,30,10,8,2,11953.15,1195.32,High Value
+C0408, Mumbai ,47,27,23,3,3624.9,134.26,Loyal Customer
+C0409,Pune,48,12,10,1,1973.85,164.49,Loyal Customer
+C0410,PUNE,,7,7,0,4762.45,680.35,Loyal Customer
+C0411,Mumbai,999,22,18,2,3407.4,154.88,Loyal Customer
+C0412,Delhi,32,2,0,2,77.0,38.5,Regular Customer
+C0413,chennai,34,4,3,1,318.2,79.55,Regular Customer
+C0414,pune,41,4,4,0,740.5,185.12,Regular Customer
+C0415,Mumbai,58,4,3,1,2543.6,635.9,Potential High Value
+C0416,Pune,56,23,18,4,4282.65,186.2,Loyal Customer
+C0417,Pune,43,25,24,1,3920.75,156.83,Loyal Customer
+C0418,Pune,48,1,1,0,399.0,399.0,Regular Customer
+C0419,pune,48,5,4,1,2282.15,456.43,Loyal Customer
+C0420,HYDERABAD,37,28,27,0,4284.75,153.03,Loyal Customer
+C0421,Mumbai,21,4,2,1,1458.8,364.7,Regular Customer
+C0422, Mumbai ,51,2,2,0,682.0,341.0,Regular Customer
+C0423,Bengaluru,27,1,1,0,116.0,116.0,Regular Customer
+C0424,Mumbai,,8,7,1,9370.7,1171.34,High Value
+C0425, Delhi ,26,3,3,0,744.0,248.0,Regular Customer
+C0426,pune,41,13,11,2,11225.35,863.49,High Value
+C0427,Chennai,40,7,4,3,1426.0,203.71,Loyal Customer
+C0428,Pune,47,25,23,2,4890.8,195.63,Loyal Customer
+C0429,MUMBAI,40,14,13,1,1185.6,84.69,Loyal Customer
+C0430,Delhi,19,6,6,0,420.9,70.15,Loyal Customer
+C0431,Chennai,,21,20,1,2621.95,124.85,Loyal Customer
+C0432,Pune,25,26,21,3,5436.45,209.09,High Value
+C0433,Chennai,60,10,7,2,5016.3,501.63,High Value
+C0434,Hyderabad,25,2,2,0,542.5,271.25,Regular Customer
+C0435,BENGALURU,36,29,27,1,6509.1,224.45,High Value
+C0436,hyderabad,25,5,3,2,4852.65,970.53,Loyal Customer
+C0437,delhi,59,4,3,1,1233.6,308.4,Regular Customer
+C0438,pune,20,4,4,0,1226.1,306.52,Regular Customer
+C0439,Bengaluru,,2,2,0,213.0,106.5,Regular Customer
+C0440,Delhi,23,2,2,0,328.3,164.15,Regular Customer
+C0441,Mumbai,48,19,18,0,2277.75,119.88,Loyal Customer
+C0442,Pune,28,6,4,2,4405.45,734.24,Loyal Customer
+C0443,delhi,40,3,2,0,987.2,329.07,Regular Customer
+C0444,Hyderabad,22,19,15,3,5294.3,278.65,High Value
+C0445,Mumbai,45,4,4,0,1070.95,267.74,Regular Customer
+C0446,mumbai,,20,19,1,3079.75,153.99,Loyal Customer
+C0447, Pune ,39,30,27,1,5574.0,185.8,High Value
+C0448,DELHI,47,2,2,0,463.5,231.75,Regular Customer
+C0449,hyderabad,,3,3,0,1310.5,436.83,Regular Customer
+C0450, Bengaluru ,57,5,5,0,4323.15,864.63,Loyal Customer
+C0451,Pune,47,4,4,0,3295.7,823.92,Potential High Value
+C0452, Hyderabad ,,5,4,1,1888.35,377.67,Loyal Customer
+C0453,Bengaluru,49,4,4,0,2081.25,520.31,Potential High Value
+C0454,Chennai,43,7,6,1,12445.65,1777.95,High Value
+C0455,hyderabad,55,5,4,1,2425.05,485.01,Loyal Customer
+C0456,Mumbai,21,18,17,1,3446.3,191.46,Loyal Customer
+C0457, Delhi ,26,7,7,0,6115.2,873.6,High Value
+C0458,mumbai,33,5,5,0,892.35,178.47,Loyal Customer
+C0459,PUNE,50,5,5,0,979.0,195.8,Loyal Customer
+C0460,Hyderabad,36,18,13,3,2873.0,159.61,Loyal Customer
+C0461,Bengaluru,25,0,0,0,0.0,0,New Customer
+C0462,MUMBAI,51,23,21,2,4023.55,174.94,Loyal Customer
+C0463,hyderabad,34,1,1,0,208.0,208.0,Regular Customer
+C0464,DELHI,57,3,3,0,663.5,221.17,Regular Customer
+C0465,Delhi,36,3,3,0,379.2,126.4,Regular Customer
+C0466,Delhi,53,3,3,0,972.5,324.17,Regular Customer
+C0467,Bengaluru,59,3,3,0,744.0,248.0,Regular Customer
+C0468,Chennai,29,3,3,0,180.6,60.2,Regular Customer
+C0469,Pune,28,25,23,1,4404.5,176.18,Loyal Customer
+C0470,Hyderabad,56,9,8,1,5439.5,604.39,High Value
+C0471, Mumbai ,38,7,6,1,9188.8,1312.69,High Value
+C0472,BENGALURU,40,18,17,0,2983.95,165.77,Loyal Customer
+C0473, Pune ,51,1,1,0,45.0,45.0,Regular Customer
+C0474,Delhi,57,17,15,1,2328.85,136.99,Loyal Customer
+C0475,Hyderabad,34,2,1,1,178.5,89.25,Regular Customer
+C0476,Hyderabad,30,6,6,0,6361.85,1060.31,High Value
+C0477,Mumbai,60,1,0,1,234.0,234.0,Regular Customer
+C0478,Delhi,45,4,4,0,480.0,120.0,Regular Customer
+C0479,Mumbai,21,7,7,0,6497.4,928.2,High Value
+C0480,hyderabad,58,16,14,2,4449.4,278.09,Loyal Customer
+C0481,CHENNAI,,2,1,1,371.7,185.85,Regular Customer
+C0482,pune,23,4,4,0,875.2,218.8,Regular Customer
+C0483,Bengaluru,26,10,10,0,4126.0,412.6,Loyal Customer
+C0484,chennai,59,4,4,0,662.0,165.5,Regular Customer
+C0485,Delhi,53,15,13,1,2281.95,152.13,Loyal Customer
+C0486,chennai,28,2,2,0,393.0,196.5,Regular Customer
+C0487,CHENNAI,21,3,2,0,292.9,97.63,Regular Customer
+C0488,Mumbai,30,11,11,0,13187.5,1198.86,High Value
+C0489,Bengaluru,57,18,17,0,2706.4,150.36,Loyal Customer
+C0490,mumbai,27,20,18,1,4434.25,221.71,Loyal Customer
+C0491,Delhi,59,22,18,2,3442.65,156.48,Loyal Customer
+C0492,Mumbai,49,29,27,2,5686.5,196.09,High Value
+C0493,pune,58,3,3,0,3968.55,1322.85,Potential High Value
+C0494,Hyderabad,55,18,15,3,2584.85,143.6,Loyal Customer
+C0495,Delhi,43,1,1,0,73.5,73.5,Regular Customer
+C0496,Mumbai,,7,5,2,4328.9,618.41,Loyal Customer
+C0497,CHENNAI,60,5,4,1,4575.4,915.08,Loyal Customer
+C0498, Bengaluru ,34,17,17,0,2803.9,164.94,Loyal Customer
+C0499,Pune,,2,1,0,278.8,139.4,Regular Customer
+C0500,Hyderabad,55,0,0,0,0.0,0,New Customer
+C0501,Bengaluru,34,1,1,0,69.6,69.6,Regular Customer
+C0502,Chennai,18,17,13,3,2561.3,150.66,Loyal Customer
+C0503,Delhi,29,21,18,3,4260.3,202.87,Loyal Customer
+C0504,mumbai,48,2,2,0,154.0,77.0,Regular Customer
+C0505,MUMBAI,26,12,11,1,1829.9,152.49,Loyal Customer
+C0506,Mumbai,56,5,5,0,3102.45,620.49,Loyal Customer
+C0507,Mumbai,48,1,1,0,209.0,209.0,Regular Customer
+C0508, Delhi ,39,17,13,4,3771.35,221.84,Loyal Customer
+C0509,hyderabad,51,5,5,0,5703.65,1140.73,High Value
+C0510,Delhi,,23,22,1,4405.9,191.56,Loyal Customer
+C0511, Delhi ,200,3,2,1,916.25,305.42,Regular Customer
+C0512,Hyderabad,45,5,5,0,11617.65,2323.53,High Value
+C0513,CHENNAI,54,3,3,0,505.5,168.5,Regular Customer
+C0514,hyderabad,34,4,4,0,1004.25,251.06,Regular Customer
+C0515,Mumbai,31,5,5,0,1327.2,265.44,Loyal Customer
+C0516, Mumbai ,52,23,21,1,3997.1,173.79,Loyal Customer
+C0517, Hyderabad ,29,1,1,0,90.25,90.25,Regular Customer
+C0518,Pune,26,3,3,0,245.75,81.92,Regular Customer
+C0519,Delhi,43,6,6,0,4674.35,779.06,Loyal Customer
+C0520,BENGALURU,27,5,5,0,3051.7,610.34,Loyal Customer
+C0521,Chennai,42,6,4,1,2615.25,435.88,Loyal Customer
+C0522,Chennai,49,4,4,0,855.5,213.88,Regular Customer
+C0523,pune,32,18,16,1,2913.55,161.86,Loyal Customer
+C0524,Chennai,43,8,7,1,9560.6,1195.07,High Value
+C0525,BENGALURU,53,7,7,0,12719.7,1817.1,High Value
+C0526,Chennai,43,4,4,0,508.05,127.01,Regular Customer
+C0527,Delhi,25,25,24,1,6077.7,243.11,High Value
+C0528,Chennai,39,1,1,0,28.8,28.8,Regular Customer
+C0529,Delhi,58,13,13,0,1264.4,97.26,Loyal Customer
+C0530,Hyderabad,34,26,24,1,5155.9,198.3,High Value
+C0531,pune,31,23,21,2,3900.95,169.61,Loyal Customer
+C0532,bengaluru,34,2,1,1,256.75,128.38,Regular Customer
+C0533,Hyderabad,60,8,7,1,8169.7,1021.21,High Value
+C0534,Mumbai,57,8,6,1,1170.0,146.25,Loyal Customer
+C0535,Delhi,43,3,3,0,469.5,156.5,Regular Customer
+C0536,Chennai,40,23,18,3,4030.1,175.22,Loyal Customer
+C0537,Bengaluru,,23,19,2,4596.0,199.83,Loyal Customer
+C0538,Mumbai,34,16,14,1,2814.7,175.92,Loyal Customer
+C0539,hyderabad,41,24,23,1,4034.85,168.12,Loyal Customer
+C0540,mumbai,24,20,17,2,3393.45,169.67,Loyal Customer
+C0541,Pune,48,1,1,0,38.25,38.25,Regular Customer
+C0542,Chennai,49,3,2,1,256.5,85.5,Regular Customer
+C0543, Bengaluru ,34,10,6,1,11744.1,1174.41,High Value
+C0544,Mumbai,34,19,16,1,2926.85,154.04,Loyal Customer
+C0545,Delhi,29,2,1,1,325.5,162.75,Regular Customer
+C0546,Pune,42,13,12,1,2355.75,181.21,Loyal Customer
+C0547, Mumbai ,57,22,22,0,3180.8,144.58,Loyal Customer
+C0548,Delhi,36,27,25,2,5469.45,202.57,High Value
+C0549,chennai,55,3,3,0,389.0,129.67,Regular Customer
+C0550,Delhi,23,15,12,3,3262.0,217.47,Loyal Customer
+C0551,mumbai,51,4,2,1,1875.25,468.81,Regular Customer
+C0552,Mumbai,37,2,2,0,488.0,244.0,Regular Customer
+C0553,Hyderabad,60,7,7,0,6855.1,979.3,High Value
+C0554,Pune,52,18,13,5,3622.7,201.26,Loyal Customer
+C0555, Bengaluru ,48,15,14,0,3199.4,213.29,Loyal Customer
+C0556,Bengaluru,18,7,5,2,3223.2,460.46,Loyal Customer
+C0557,Mumbai,48,10,10,0,7527.8,752.78,High Value
+C0558,Pune,44,13,13,0,1627.35,125.18,Loyal Customer
+C0559,Hyderabad,32,22,18,4,3330.65,151.39,Loyal Customer
+C0560,chennai,59,8,7,0,1147.75,143.47,Loyal Customer
+C0561,bengaluru,47,18,17,1,2803.9,155.77,Loyal Customer
+C0562,Pune,19,6,3,3,5514.3,919.05,High Value
+C0563,Delhi,,3,3,0,4116.4,1372.13,Potential High Value
+C0564,Bengaluru,20,20,16,3,4172.2,208.61,Loyal Customer
+C0565,Chennai,29,6,4,2,7382.85,1230.48,High Value
+C0566,Pune,46,4,4,0,769.9,192.47,Regular Customer
+C0567,Pune,48,23,21,1,2175.4,94.58,Loyal Customer
+C0568,Bengaluru,51,2,2,0,88.8,44.4,Regular Customer
+C0569,Bengaluru,25,5,5,0,643.4,128.68,Loyal Customer
+C0570, Mumbai ,18,26,22,4,3589.8,138.07,Loyal Customer
+C0571,Bengaluru,49,4,4,0,1950.95,487.74,Regular Customer
+C0572,pune,24,4,4,0,497.35,124.34,Regular Customer
+C0573,Bengaluru,26,7,5,2,1758.0,251.14,Loyal Customer
+C0574,Hyderabad,29,27,23,4,4200.0,155.56,Loyal Customer
+C0575,Bengaluru,51,16,15,1,3502.7,218.92,Loyal Customer
+C0576, Mumbai ,42,2,2,0,383.2,191.6,Regular Customer
+C0577, Bengaluru ,42,5,5,0,5138.4,1027.68,High Value
+C0578,CHENNAI,24,3,3,0,1064.75,354.92,Regular Customer
+C0579,Hyderabad,20,14,13,1,2312.5,165.18,Loyal Customer
+C0580,Chennai,32,19,15,2,3142.5,165.39,Loyal Customer
+C0581,HYDERABAD,53,3,2,1,483.3,161.1,Regular Customer
+C0582,PUNE,37,3,3,0,2775.8,925.27,Potential High Value
+C0583,Pune,51,18,16,2,3322.55,184.59,Loyal Customer
+C0584,Mumbai,58,5,4,1,1323.5,264.7,Loyal Customer
+C0585,Bengaluru,39,14,13,0,1956.75,139.77,Loyal Customer
+C0586,Mumbai,41,1,1,0,247.0,247.0,Regular Customer
+C0587,delhi,53,27,26,1,4225.6,156.5,Loyal Customer
+C0588,Bengaluru,,7,6,1,7102.2,1014.6,High Value
+C0589,Hyderabad,19,20,18,2,3901.65,195.08,Loyal Customer
+C0590,Bengaluru,,2,2,0,270.2,135.1,Regular Customer
+C0591, Pune ,37,20,18,1,2920.85,146.04,Loyal Customer
+C0592,Pune,54,23,23,0,3862.25,167.92,Loyal Customer
+C0593,Chennai,21,16,10,5,1474.6,92.16,Loyal Customer
+C0594,Bengaluru,56,27,25,1,3734.3,138.31,Loyal Customer
+C0595,Pune,27,21,17,3,3022.8,143.94,Loyal Customer
+C0596,delhi,56,26,25,0,4031.7,155.07,Loyal Customer
+C0597,Delhi,54,23,20,2,3166.35,137.67,Loyal Customer
+C0598,Mumbai,26,5,4,1,947.75,189.55,Loyal Customer
+C0599,Pune,33,3,3,0,353.25,117.75,Regular Customer
+C0600,Hyderabad,44,9,8,1,5891.65,654.63,High Value
+C0601,Mumbai,40,2,2,0,204.0,102.0,Regular Customer
+C0602,pune,30,2,1,0,164.4,82.2,Regular Customer
+C0603,Delhi,,2,2,0,331.2,165.6,Regular Customer
+C0604,Delhi,52,20,19,1,5011.9,250.59,High Value
+C0605,mumbai,,6,4,2,1068.2,178.03,Loyal Customer
+C0606,Delhi,57,20,17,3,3964.9,198.25,Loyal Customer
+C0607, Pune ,41,0,0,0,0.0,0,New Customer
+C0608,Mumbai,24,3,1,2,455.6,151.87,Regular Customer
+C0609, Delhi ,,29,26,3,5478.65,188.92,High Value
+C0610,PUNE,40,2,2,0,4497.0,2248.5,Potential High Value
+C0611,Bengaluru,19,12,11,1,2755.75,229.65,Loyal Customer
+C0612,Mumbai,42,7,7,0,981.6,140.23,Loyal Customer
+C0613,Hyderabad,56,20,17,2,2693.75,134.69,Loyal Customer
+C0614,Mumbai,26,1,1,0,21.75,21.75,Regular Customer
+C0615,Bengaluru,38,15,12,3,3078.7,205.25,Loyal Customer
+C0616,Delhi,38,3,3,0,2518.6,839.53,Potential High Value
+C0617,Chennai,35,2,2,0,61.0,30.5,Regular Customer
+C0618,pune,56,3,2,1,221.0,73.67,Regular Customer
+C0619,Mumbai,48,3,3,0,3554.0,1184.67,Potential High Value
+C0620,DELHI,28,26,21,4,3921.5,150.83,Loyal Customer
+C0621,Delhi,31,3,2,1,388.8,129.6,Regular Customer
+C0622,Delhi,33,5,5,0,785.0,157.0,Loyal Customer
+C0623,Chennai,52,2,1,1,361.0,180.5,Regular Customer
+C0624,Delhi,33,6,6,0,1049.6,174.93,Loyal Customer
+C0625,delhi,30,0,0,0,0.0,0,New Customer
+C0626,Pune,51,19,18,0,2865.55,150.82,Loyal Customer
+C0627,Mumbai,52,11,7,4,10958.5,996.23,High Value
+C0628,chennai,47,2,2,0,158.0,79.0,Regular Customer
+C0629, Hyderabad ,23,25,23,1,3613.5,144.54,Loyal Customer
+C0630,Mumbai,54,4,4,0,649.1,162.28,Regular Customer
+C0631,Chennai,37,7,7,0,3931.25,561.61,Loyal Customer
+C0632,Delhi,57,3,3,0,517.0,172.33,Regular Customer
+C0633,Delhi,56,28,23,5,5643.9,201.57,High Value
+C0634,mumbai,33,1,1,0,255.0,255.0,Regular Customer
+C0635,chennai,27,4,4,0,292.2,73.05,Regular Customer
+C0636,Pune,28,22,17,3,3513.2,159.69,Loyal Customer
+C0637,hyderabad,37,1,1,0,80.75,80.75,Regular Customer
+C0638,hyderabad,35,20,17,2,2936.8,146.84,Loyal Customer
+C0639,Hyderabad,51,22,18,3,3619.4,164.52,Loyal Customer
+C0640,Pune,57,23,23,0,3287.2,142.92,Loyal Customer
+C0641,chennai,57,26,23,2,4277.6,164.52,Loyal Customer
+C0642, Bengaluru ,31,2,2,0,548.0,274.0,Regular Customer
+C0643,BENGALURU,18,10,9,1,1172.4,117.24,Loyal Customer
+C0644,Hyderabad,18,23,21,1,3952.9,171.87,Loyal Customer
+C0645,Chennai,39,4,4,0,512.25,128.06,Regular Customer
+C0646,Delhi,47,22,20,2,2860.5,130.02,Loyal Customer
+C0647,Hyderabad,37,5,5,0,2106.0,421.2,Loyal Customer
+C0648,Delhi,40,1,1,0,142.5,142.5,Regular Customer
+C0649,pune,56,3,2,0,1131.4,377.13,Regular Customer
+C0650,HYDERABAD,33,23,21,2,4011.75,174.42,Loyal Customer
+C0651,Chennai,20,3,3,0,1610.75,536.92,Regular Customer
+C0652,Mumbai,30,2,2,0,191.0,95.5,Regular Customer
+C0653,chennai,26,9,9,0,8764.1,973.79,High Value
+C0654,Hyderabad,56,1,0,1,240.0,240.0,Regular Customer
+C0655,mumbai,54,2,2,0,121.8,60.9,Regular Customer
+C0656,chennai,46,18,17,1,3055.9,169.77,Loyal Customer
+C0657,Mumbai,24,3,3,0,496.0,165.33,Regular Customer
+C0658,delhi,33,3,3,0,185.5,61.83,Regular Customer
+C0659,Mumbai,21,11,10,1,8670.8,788.25,High Value
+C0660,Chennai,46,2,2,0,300.0,150.0,Regular Customer
+C0661,DELHI,54,5,5,0,558.5,111.7,Loyal Customer
+C0662,Bengaluru,47,3,3,0,175.1,58.37,Regular Customer
+C0663,delhi,60,17,16,1,2853.75,167.87,Loyal Customer
+C0664,hyderabad,48,24,21,3,3496.2,145.67,Loyal Customer
+C0665, Delhi ,24,7,6,1,6889.5,984.21,High Value
+C0666,BENGALURU,33,19,18,1,3056.0,160.84,Loyal Customer
+C0667,Pune,45,4,4,0,284.8,71.2,Regular Customer
+C0668,hyderabad,54,1,1,0,168.0,168.0,Regular Customer
+C0669,Delhi,43,16,15,1,2347.15,146.7,Loyal Customer
+C0670,pune,26,8,5,2,4970.8,621.35,Loyal Customer
+C0671,Hyderabad,57,22,19,1,3526.9,160.31,Loyal Customer
+C0672,bengaluru,40,3,2,1,421.5,140.5,Regular Customer
+C0673,Bengaluru,18,1,1,0,399.0,399.0,Regular Customer
+C0674,Delhi,55,18,16,1,4026.85,223.71,Loyal Customer
+C0675,MUMBAI,48,21,16,3,3219.6,153.31,Loyal Customer
+C0676,Pune,,4,4,0,316.5,79.12,Regular Customer
+C0677,Delhi,26,2,2,0,244.0,122.0,Regular Customer
+C0678,Delhi,53,27,23,3,3769.3,139.6,Loyal Customer
+C0679,Chennai,33,18,15,3,2821.45,156.75,Loyal Customer
+C0680,Bengaluru,55,3,2,1,243.0,81.0,Regular Customer
+C0681,HYDERABAD,57,7,7,0,5284.9,754.99,High Value
+C0682, Pune ,52,8,7,1,7776.05,972.01,High Value
+C0683,bengaluru,36,28,25,3,4196.85,149.89,Loyal Customer
+C0684,delhi,54,33,30,3,7843.95,237.7,High Value
+C0685,Chennai,35,15,12,2,3620.0,241.33,Loyal Customer
+C0686,PUNE,27,1,1,0,131.75,131.75,Regular Customer
+C0687,Mumbai,20,3,3,0,4065.85,1355.28,Potential High Value
+C0688,Hyderabad,42,6,6,0,1138.0,189.67,Loyal Customer
+C0689,Delhi,34,15,15,0,2834.6,188.97,Loyal Customer
+C0690,bengaluru,52,24,22,2,3674.65,153.11,Loyal Customer
+C0691,Pune,36,2,2,0,318.0,159.0,Regular Customer
+C0692,BENGALURU,58,1,1,0,2598.0,2598.0,Potential High Value
+C0693,Mumbai,55,10,8,1,16565.35,1656.53,High Value
+C0694,delhi,38,3,3,0,578.6,192.87,Regular Customer
+C0695,Chennai,40,5,3,2,4910.95,982.19,Loyal Customer
+C0696,Chennai,60,10,8,1,10141.8,1014.18,High Value
+C0697,BENGALURU,59,4,4,0,5003.1,1250.78,Potential High Value
+C0698,bengaluru,58,2,2,0,239.0,119.5,Regular Customer
+C0699,bengaluru,21,11,10,1,14470.8,1315.53,High Value
+C0700,Hyderabad,57,7,7,0,6049.8,864.26,High Value
+C0701,chennai,24,20,20,0,3626.5,181.32,Loyal Customer
+C0702, Pune ,,3,3,0,904.0,301.33,Regular Customer
+C0703, Delhi ,43,5,5,0,2254.3,450.86,Loyal Customer
+C0704,Pune,22,5,5,0,717.65,143.53,Loyal Customer
+C0705,Chennai,52,23,21,2,3156.65,137.25,Loyal Customer
+C0706,Bengaluru,41,2,2,0,672.0,336.0,Regular Customer
+C0707,Pune,42,5,4,1,3441.85,688.37,Loyal Customer
+C0708,Chennai,58,27,23,4,4571.9,169.33,Loyal Customer
+C0709,Hyderabad,42,16,13,3,2008.25,125.52,Loyal Customer
+C0710,CHENNAI,20,1,0,0,47.5,47.5,Regular Customer
+C0711,Mumbai,47,2,2,0,119.4,59.7,Regular Customer
+C0712,Pune,49,5,4,1,6473.8,1294.76,High Value
+C0713,hyderabad,21,7,7,0,7898.4,1128.34,High Value
+C0714,Mumbai,24,16,13,2,3371.65,210.73,Loyal Customer
+C0715,Mumbai,43,6,4,2,882.1,147.02,Loyal Customer
+C0716, Pune ,22,27,24,3,4977.25,184.34,Loyal Customer
+C0717,Chennai,,4,4,0,5099.5,1274.88,Potential High Value
+C0718,Pune,29,3,2,1,1706.0,568.67,Regular Customer
+C0719,Mumbai,26,3,2,1,882.0,294.0,Regular Customer
+C0720, Bengaluru ,56,5,5,0,605.4,121.08,Loyal Customer
+C0721,HYDERABAD,25,24,21,3,4449.15,185.38,Loyal Customer
+C0722,delhi,31,4,4,0,432.5,108.12,Regular Customer
+C0723,Bengaluru,21,1,1,0,135.0,135.0,Regular Customer
+C0724,Chennai,20,0,0,0,0.0,0,New Customer
+C0725,Mumbai,46,11,9,1,9236.75,839.7,High Value
+C0726,Chennai,33,22,19,2,3971.25,180.51,Loyal Customer
+C0727, Delhi ,45,19,18,1,4017.15,211.43,Loyal Customer
+C0728,Chennai,58,22,19,1,3859.35,175.42,Loyal Customer
+C0729,Mumbai,25,3,2,1,1286.7,428.9,Regular Customer
+C0730,Delhi,58,3,3,0,271.5,90.5,Regular Customer
+C0731,Pune,55,25,23,2,3404.35,136.17,Loyal Customer
+C0732, Chennai ,55,23,21,2,3045.25,132.4,Loyal Customer
+C0733,Delhi,,6,6,0,2086.85,347.81,Loyal Customer
+C0734,BENGALURU,18,3,1,2,5446.1,1815.37,Potential High Value
+C0735,Pune,19,2,2,0,39.25,19.62,Regular Customer
+C0736,Pune,26,1,1,0,50.0,50.0,Regular Customer
+C0737,Delhi,42,3,3,0,860.0,286.67,Regular Customer
+C0738,Bengaluru,52,5,5,0,313.4,62.68,Loyal Customer
+C0739,hyderabad,41,4,4,0,2570.3,642.58,Potential High Value
+C0740,BENGALURU,53,21,17,4,3280.65,156.22,Loyal Customer
+C0741,Bengaluru,55,5,4,1,5856.1,1171.22,High Value
+C0742,Hyderabad,35,20,15,3,4693.25,234.66,Loyal Customer
+C0743, Hyderabad ,52,7,7,0,12730.05,1818.58,High Value
+C0744,Delhi,22,2,2,0,288.75,144.38,Regular Customer
+C0745,Mumbai,24,18,16,1,4113.55,228.53,Loyal Customer
+C0746,Bengaluru,19,21,20,0,2566.2,122.2,Loyal Customer
+C0747,Mumbai,36,2,1,0,55.35,27.68,Regular Customer
+C0748,Hyderabad,44,27,25,2,4657.9,172.51,Loyal Customer
+C0749,BENGALURU,46,17,14,3,3069.25,180.54,Loyal Customer
+C0750,Mumbai,21,24,21,2,3769.5,157.06,Loyal Customer
+C0751,Bengaluru,60,17,17,0,2444.1,143.77,Loyal Customer
+C0752, Mumbai ,29,22,21,1,4277.7,194.44,Loyal Customer
+C0753,Mumbai,52,18,15,2,2296.6,127.59,Loyal Customer
+C0754,Delhi,18,4,4,0,920.4,230.1,Regular Customer
+C0755,pune,54,3,3,0,681.2,227.07,Regular Customer
+C0756,Hyderabad,26,19,16,2,3731.85,196.41,Loyal Customer
+C0757,mumbai,38,18,13,2,3564.4,198.02,Loyal Customer
+C0758,DELHI,60,16,16,0,2665.9,166.62,Loyal Customer
+C0759, Delhi ,60,1,0,1,21.25,21.25,Regular Customer
+C0760,Pune,37,22,20,2,3946.1,179.37,Loyal Customer
+C0761,Mumbai,46,6,5,1,1415.45,235.91,Loyal Customer
+C0762,Hyderabad,31,18,17,1,3613.85,200.77,Loyal Customer
+C0763,mumbai,58,5,4,1,1922.05,384.41,Loyal Customer
+C0764,Bengaluru,53,4,4,0,883.0,220.75,Regular Customer
+C0765,Chennai,19,4,4,0,780.0,195.0,Regular Customer
+C0766,Chennai,29,2,2,0,487.65,243.82,Regular Customer
+C0767,Pune,56,23,19,2,3838.25,166.88,Loyal Customer
+C0768,Mumbai,25,1,1,0,40.0,40.0,Regular Customer
+C0769,Pune,26,6,6,0,2407.45,401.24,Loyal Customer
+C0770,Chennai,36,21,20,1,2619.65,124.75,Loyal Customer
+C0771,Pune,38,3,2,1,244.5,81.5,Regular Customer
+C0772, Bengaluru ,55,22,21,1,3885.8,176.63,Loyal Customer
+C0773,Hyderabad,28,15,14,0,2684.25,178.95,Loyal Customer
+C0774,Delhi,52,2,2,0,174.0,87.0,Regular Customer
+C0775,Delhi,19,10,8,2,15755.6,1575.56,High Value
+C0776,Mumbai,39,26,25,0,5157.75,198.38,High Value
+C0777,Pune,37,9,8,1,6833.3,759.26,High Value
+C0778,Pune,48,5,5,0,3335.6,667.12,Loyal Customer
+C0779,Chennai,,5,3,1,6034.2,1206.84,High Value
+C0780,Mumbai,29,18,16,1,2931.75,162.88,Loyal Customer
+C0781,hyderabad,40,1,1,0,560.0,560.0,Regular Customer
+C0782,hyderabad,18,4,3,0,330.75,82.69,Regular Customer
+C0783,Pune,50,3,3,0,1140.8,380.27,Regular Customer
+C0784,bengaluru,42,6,6,0,2802.45,467.07,Loyal Customer
+C0785,Bengaluru,49,6,5,1,9971.85,1661.98,High Value
+C0786, Hyderabad ,56,14,12,1,2385.8,170.41,Loyal Customer
+C0787,mumbai,30,3,2,1,276.1,92.03,Regular Customer
+C0788, Mumbai ,24,4,4,0,561.0,140.25,Regular Customer
+C0789,Hyderabad,28,1,0,0,52.2,52.2,Regular Customer
+C0790,Bengaluru,45,24,24,0,4238.5,176.6,Loyal Customer
+C0791,CHENNAI,49,2,2,0,184.3,92.15,Regular Customer
+C0792,pune,,24,20,2,5178.25,215.76,High Value
+C0793,Pune,38,8,7,1,6414.15,801.77,High Value
+C0794,Bengaluru,47,2,1,1,315.6,157.8,Regular Customer
+C0795,Delhi,,6,6,0,910.7,151.78,Loyal Customer
+C0796,Delhi,,3,0,2,464.8,154.93,Regular Customer
+C0797,Pune,49,27,22,5,5107.2,189.16,High Value
+C0798,Delhi,28,32,28,3,5061.75,158.18,High Value
+C0799,Bengaluru,38,28,26,1,3157.4,112.76,Loyal Customer
+C0800, Delhi ,58,24,22,1,2869.4,119.56,Loyal Customer
+C0801, Chennai ,33,2,1,1,136.5,68.25,Regular Customer
+C0802,Chennai,20,9,7,2,11761.1,1306.79,High Value
+C0803,Chennai,42,17,15,2,2908.85,171.11,Loyal Customer
+C0804, Bengaluru ,50,18,16,2,4077.7,226.54,Loyal Customer
+C0805,bengaluru,58,15,13,2,2222.45,148.16,Loyal Customer
+C0806,BENGALURU,32,4,3,0,429.4,107.35,Regular Customer
+C0807,Hyderabad,48,21,18,3,3245.45,154.55,Loyal Customer
+C0808,Mumbai,38,24,23,1,3118.3,129.93,Loyal Customer
+C0809,Pune,29,4,3,1,750.5,187.62,Regular Customer
+C0810, Mumbai ,45,2,1,1,132.0,66.0,Regular Customer
+C0811,DELHI,37,8,7,1,7946.15,993.27,High Value
+C0812,mumbai,34,23,21,1,2987.35,129.88,Loyal Customer
+C0813,Pune,37,20,16,4,2279.5,113.97,Loyal Customer
+C0814,Mumbai,,19,18,1,5938.4,312.55,High Value
+C0815,HYDERABAD,49,4,3,1,2996.3,749.08,Potential High Value
+C0816,mumbai,41,8,7,1,7813.0,976.62,High Value
+C0817,CHENNAI,51,3,3,0,451.65,150.55,Regular Customer
+C0818,DELHI,38,5,4,1,5858.0,1171.6,High Value
+C0819, Hyderabad ,35,4,4,0,9144.55,2286.14,Potential High Value
+C0820,Bengaluru,52,3,3,0,178.0,59.33,Regular Customer
+C0821,Pune,19,26,22,3,4757.2,182.97,Loyal Customer
+C0822,Hyderabad,53,1,1,0,198.0,198.0,Regular Customer
+C0823,Chennai,18,4,4,0,827.95,206.99,Regular Customer
+C0824, Pune ,31,2,2,0,612.0,306.0,Regular Customer
+C0825,Bengaluru,23,6,6,0,4042.25,673.71,Loyal Customer
+C0826,Delhi,24,5,5,0,881.1,176.22,Loyal Customer
+C0827,Chennai,38,0,0,0,0.0,0,New Customer
+C0828,hyderabad,59,6,6,0,3644.95,607.49,Loyal Customer
+C0829,Delhi,59,4,4,0,1195.5,298.88,Regular Customer
+C0830, Chennai ,29,3,2,1,448.7,149.57,Regular Customer
+C0831,Chennai,42,5,5,0,5037.35,1007.47,High Value
+C0832,Pune,32,1,1,0,339.15,339.15,Regular Customer
+C0833,hyderabad,45,8,8,0,4444.9,555.61,Loyal Customer
+C0834,Mumbai,47,2,2,0,1225.0,612.5,Regular Customer
+C0835,HYDERABAD,36,0,0,0,0.0,0,New Customer
+C0836,Bengaluru,30,4,4,0,440.5,110.12,Regular Customer
+C0837,Chennai,33,21,20,1,2921.55,139.12,Loyal Customer
+C0838,bengaluru,43,2,2,0,432.5,216.25,Regular Customer
+C0839,Pune,39,28,27,0,3334.55,119.09,Loyal Customer
+C0840,Delhi,,21,20,1,3749.0,178.52,Loyal Customer
+C0841,delhi,20,6,5,0,3446.45,574.41,Loyal Customer
+C0842,Delhi,45,18,16,1,3926.35,218.13,Loyal Customer
+C0843,Bengaluru,41,2,2,0,107.4,53.7,Regular Customer
+C0844,Pune,38,18,15,3,2283.2,126.84,Loyal Customer
+C0845,Mumbai,27,20,16,4,4052.95,202.65,Loyal Customer
+C0846,delhi,20,19,17,1,3610.3,190.02,Loyal Customer
+C0847,Mumbai,25,3,3,0,921.2,307.07,Regular Customer
+C0848,hyderabad,60,3,3,0,785.2,261.73,Regular Customer
+C0849,Pune,49,1,1,0,129.0,129.0,Regular Customer
+C0850,chennai,55,7,4,2,3456.6,493.8,Loyal Customer
+C0851,Chennai,48,2,1,1,389.0,194.5,Regular Customer
+C0852,Chennai,54,4,4,0,429.2,107.3,Regular Customer
+C0853,chennai,42,27,23,4,4696.65,173.95,Loyal Customer
+C0854,Bengaluru,43,20,17,3,3704.2,185.21,Loyal Customer
+C0855,Bengaluru,37,17,15,2,2568.7,151.1,Loyal Customer
+C0856,Delhi,42,20,17,3,4396.5,219.82,Loyal Customer
+C0857,PUNE,58,3,2,1,182.7,60.9,Regular Customer
+C0858,Delhi,49,5,4,0,575.1,115.02,Loyal Customer
+C0859,Hyderabad,37,5,3,2,1352.6,270.52,Loyal Customer
+C0860,Chennai,22,25,22,2,3894.6,155.78,Loyal Customer
+C0861,Pune,34,2,1,1,237.25,118.62,Regular Customer
+C0862,Hyderabad,,6,6,0,4456.05,742.68,Loyal Customer
+C0863,mumbai,57,2,2,0,581.75,290.88,Regular Customer
+C0864,delhi,24,4,3,1,634.0,158.5,Regular Customer
+C0865,Hyderabad,47,6,4,1,2460.7,410.12,Loyal Customer
+C0866,mumbai,43,3,2,1,398.8,132.93,Regular Customer
+C0867,Pune,19,3,3,0,2794.5,931.5,Potential High Value
+C0868,chennai,37,18,15,2,3355.05,186.39,Loyal Customer
+C0869,MUMBAI,46,10,8,2,6486.0,648.6,High Value
+C0870,Pune,43,20,14,6,4016.4,200.82,Loyal Customer
+C0871, Delhi ,49,22,18,3,4012.8,182.4,Loyal Customer
+C0872,pune,57,22,19,2,3304.05,150.18,Loyal Customer
+C0873,Chennai,38,7,7,0,7062.7,1008.96,High Value
+C0874,Bengaluru,46,3,2,1,250.2,83.4,Regular Customer
+C0875,Pune,32,21,18,2,4390.65,209.08,Loyal Customer
+C0876,Mumbai,42,6,5,1,2888.2,481.37,Loyal Customer
+C0877,Hyderabad,23,16,11,4,1715.2,107.2,Loyal Customer
+C0878, Bengaluru ,37,2,2,0,277.4,138.7,Regular Customer
+C0879,HYDERABAD,,4,4,0,2070.15,517.54,Potential High Value
+C0880,Bengaluru,34,21,19,2,3414.3,162.59,Loyal Customer
+C0881,Delhi,50,3,3,0,228.95,76.32,Regular Customer
+C0882,Chennai,57,3,2,1,948.0,316.0,Regular Customer
+C0883,Hyderabad,31,6,4,2,10229.7,1704.95,High Value
+C0884,Delhi,59,5,5,0,1144.1,228.82,Loyal Customer
+C0885,mumbai,33,1,1,0,225.0,225.0,Regular Customer
+C0886,Delhi,44,21,20,1,3383.2,161.1,Loyal Customer
+C0887,delhi,44,4,4,0,2150.15,537.54,Potential High Value
+C0888,Mumbai,51,8,6,1,7532.7,941.59,High Value
+C0889, Bengaluru ,60,22,17,3,3571.15,162.33,Loyal Customer
+C0890,Chennai,53,5,4,0,745.0,149.0,Loyal Customer
+C0891,Hyderabad,27,5,5,0,487.45,97.49,Loyal Customer
+C0892,bengaluru,40,4,2,2,407.25,101.81,Regular Customer
+C0893,Hyderabad,26,9,8,1,2127.8,236.42,Loyal Customer
+C0894,Hyderabad,58,19,17,2,3158.2,166.22,Loyal Customer
+C0895,BENGALURU,37,16,13,2,2320.4,145.03,Loyal Customer
+C0896,Hyderabad,21,23,22,1,4783.75,207.99,Loyal Customer
+C0897,BENGALURU,55,20,17,2,2908.75,145.44,Loyal Customer
+C0898,Bengaluru,54,5,5,0,492.2,98.44,Loyal Customer
+C0899,chennai,41,5,3,2,6572.9,1314.58,High Value
+C0900,Hyderabad,48,20,17,2,4930.45,246.52,Loyal Customer
+C0901,Pune,55,19,17,2,3394.75,178.67,Loyal Customer
+C0902,hyderabad,50,1,1,0,12.0,12.0,Regular Customer
+C0903,Hyderabad,20,15,15,0,4348.4,289.89,Loyal Customer
+C0904,Bengaluru,54,9,8,1,5929.85,658.87,High Value
+C0905,Bengaluru,19,18,16,2,2689.0,149.39,Loyal Customer
+C0906,Delhi,,18,17,1,2346.05,130.34,Loyal Customer
+C0907,Hyderabad,39,21,19,2,2757.95,131.33,Loyal Customer
+C0908,Pune,46,5,4,1,1240.95,248.19,Loyal Customer
+C0909,pune,39,19,18,1,4119.55,216.82,Loyal Customer
+C0910,pune,54,5,4,0,3347.3,669.46,Loyal Customer
+C0911,Hyderabad,57,21,18,2,4053.85,193.04,Loyal Customer
+C0912,Pune,29,7,5,2,2544.8,363.54,Loyal Customer
+C0913, Chennai ,52,13,12,0,2592.4,199.42,Loyal Customer
+C0914,hyderabad,51,5,5,0,5849.5,1169.9,High Value
+C0915,Hyderabad,23,8,8,0,5522.75,690.34,High Value
+C0916,BENGALURU,21,6,6,0,8444.85,1407.47,High Value
+C0917,Hyderabad,21,3,2,1,828.5,276.17,Regular Customer
+C0918,delhi,35,20,16,1,4081.4,204.07,Loyal Customer
+C0919,Hyderabad,19,1,1,0,0.0,0.0,Regular Customer
+C0920,Bengaluru,44,6,5,1,4509.95,751.66,Loyal Customer
+C0921,Chennai,52,8,8,0,6020.8,752.6,High Value
+C0922,Bengaluru,36,8,7,0,914.55,114.32,Loyal Customer
+C0923,Mumbai,40,3,3,0,387.0,129.0,Regular Customer
+C0924,Bengaluru,23,23,22,1,4322.9,187.95,Loyal Customer
+C0925,BENGALURU,38,20,19,0,3100.2,155.01,Loyal Customer
+C0926,Pune,31,1,1,0,139.5,139.5,Regular Customer
+C0927,hyderabad,18,4,4,0,767.65,191.91,Regular Customer
+C0928,Bengaluru,22,1,1,0,129.0,129.0,Regular Customer
+C0929, Delhi ,40,20,19,0,3121.45,156.07,Loyal Customer
+C0930,Chennai,32,9,9,0,10151.4,1127.93,High Value
+C0931,Bengaluru,32,1,1,0,260.0,260.0,Regular Customer
+C0932,Bengaluru,,1,1,0,525.0,525.0,Regular Customer
+C0933,hyderabad,30,17,14,3,1934.85,113.81,Loyal Customer
+C0934,pune,54,10,7,3,5670.4,567.04,High Value
+C0935,Delhi,52,2,2,0,378.0,189.0,Regular Customer
+C0936,Pune,38,2,1,1,437.0,218.5,Regular Customer
+C0937,Hyderabad,20,21,21,0,4160.8,198.13,Loyal Customer
+C0938,Pune,39,5,5,0,3674.4,734.88,Loyal Customer
+C0939,Delhi,30,3,3,0,459.5,153.17,Regular Customer
+C0940,DELHI,58,9,9,0,8874.2,986.02,High Value
+C0941,Hyderabad,39,27,23,4,4450.3,164.83,Loyal Customer
+C0942,Bengaluru,55,6,6,0,8643.6,1440.6,High Value
+C0943,Hyderabad,26,1,1,0,89.1,89.1,Regular Customer
+C0944,Chennai,21,7,7,0,4795.35,685.05,Loyal Customer
+C0945,Delhi,56,21,16,4,2476.3,117.92,Loyal Customer
+C0946, Hyderabad ,24,2,2,0,261.0,130.5,Regular Customer
+C0947,Mumbai,18,10,8,2,5140.15,514.02,High Value
+C0948,chennai,48,19,16,2,3222.6,169.61,Loyal Customer
+C0949,Hyderabad,50,21,18,3,3287.5,156.55,Loyal Customer
+C0950,Hyderabad,56,8,8,0,6788.85,848.61,High Value
+C0951,bengaluru,50,5,5,0,3871.95,774.39,Loyal Customer
+C0952, Pune ,22,24,22,2,3487.7,145.32,Loyal Customer
+C0953,Chennai,57,19,17,2,3390.95,178.47,Loyal Customer
+C0954,Delhi,32,2,2,0,534.0,267.0,Regular Customer
+C0955,chennai,42,1,1,0,272.0,272.0,Regular Customer
+C0956,chennai,27,7,6,1,6066.55,866.65,High Value
+C0957,mumbai,34,24,21,3,3760.7,156.7,Loyal Customer
+C0958,MUMBAI,19,2,1,1,534.1,267.05,Regular Customer
+C0959,chennai,41,21,17,2,3226.1,153.62,Loyal Customer
+C0960,Hyderabad,30,8,8,0,1446.7,180.84,Loyal Customer
+C0961,BENGALURU,57,3,3,0,483.0,161.0,Regular Customer
+C0962,pune,26,4,4,0,559.85,139.96,Regular Customer
+C0963,Hyderabad,57,27,22,4,4336.2,160.6,Loyal Customer
+C0964,Bengaluru,51,22,20,2,4785.9,217.54,Loyal Customer
+C0965, Mumbai ,55,4,4,0,360.8,90.2,Regular Customer
+C0966,hyderabad,42,21,19,0,4185.3,199.3,Loyal Customer
+C0967,Hyderabad,46,2,1,0,185.1,92.55,Regular Customer
+C0968,delhi,45,22,19,3,3284.2,149.28,Loyal Customer
+C0969,Hyderabad,59,20,17,2,3795.25,189.76,Loyal Customer
+C0970, Mumbai ,32,3,2,1,860.0,286.67,Regular Customer
+C0971,Pune,37,2,2,0,594.4,297.2,Regular Customer
+C0972,BENGALURU,52,7,6,1,4786.3,683.76,Loyal Customer
+C0973,Pune,43,27,20,6,5209.35,192.94,High Value
+C0974,Mumbai,43,4,4,0,1094.5,273.62,Regular Customer
+C0975,Mumbai,47,5,5,0,484.55,96.91,Loyal Customer
+C0976,Mumbai,31,1,1,0,560.0,560.0,Regular Customer
+C0977, Mumbai ,18,5,5,0,5444.6,1088.92,High Value
+C0978,Mumbai,52,6,6,0,918.65,153.11,Loyal Customer
+C0979,Mumbai,58,2,1,1,119.3,59.65,Regular Customer
+C0980,chennai,30,4,4,0,3944.0,986.0,Potential High Value
+C0981,mumbai,20,2,2,0,518.3,259.15,Regular Customer
+C0982, Chennai ,31,1,1,0,18.0,18.0,Regular Customer
+C0983,Delhi,44,6,5,1,6822.9,1137.15,High Value
+C0984,Mumbai,31,5,5,0,4077.25,815.45,Loyal Customer
+C0985,Chennai,30,4,3,0,338.6,84.65,Regular Customer
+C0986,Delhi,43,25,23,2,4599.95,184.0,Loyal Customer
+C0987,Pune,23,19,16,2,2720.65,143.19,Loyal Customer
+C0988,Mumbai,57,1,1,0,396.0,396.0,Regular Customer
+C0989,Pune,42,4,4,0,387.75,96.94,Regular Customer
+C0990,Pune,28,30,24,4,5060.55,168.69,High Value
+C0991,Chennai,44,2,2,0,148.05,74.03,Regular Customer
+C0992,chennai,46,3,3,0,614.75,204.92,Regular Customer
+C0993,chennai,47,2,2,0,151.2,75.6,Regular Customer
+C0994,Chennai,38,5,3,2,6009.95,1201.99,High Value
+C0995,Chennai,26,26,23,2,3728.7,143.41,Loyal Customer
+C0996,Mumbai,52,6,6,0,5134.0,855.67,High Value
+C0997,Pune,20,3,3,0,960.95,320.32,Regular Customer
+C0998,Chennai,60,2,1,1,102.0,51.0,Regular Customer
+C0999,chennai,30,9,7,1,6452.6,716.96,High Value
+C1000,Chennai,39,8,8,0,8943.2,1117.9,High Value
+C1001,Hyderabad,,5,5,0,963.5,192.7,Loyal Customer
+C1002, Bengaluru ,43,3,2,1,644.0,214.67,Regular Customer
+C1003,Pune,,5,4,0,3747.9,749.58,Loyal Customer
+C1004,Delhi,20,3,2,1,418.8,139.6,Regular Customer
+C1005,Pune,54,2,2,0,888.0,444.0,Regular Customer
+C1006, Chennai ,39,2,2,0,252.0,126.0,Regular Customer
+C1007,Hyderabad,46,1,1,0,40.0,40.0,Regular Customer
+C1008,Mumbai,57,7,7,0,6100.05,871.44,High Value
+C1009,Mumbai,49,6,6,0,6931.4,1155.23,High Value
+C1010,Delhi,39,10,8,1,941.5,94.15,Loyal Customer
+C1011,hyderabad,32,21,19,2,4727.05,225.1,Loyal Customer
+C1012,Delhi,32,4,3,1,357.9,89.47,Regular Customer
+C1013,mumbai,22,5,4,1,3080.9,616.18,Loyal Customer
+C1014,Mumbai,31,25,22,1,5181.1,207.24,High Value
+C1015,Bengaluru,56,19,16,2,3080.6,162.14,Loyal Customer
+C1016,Hyderabad,43,17,17,0,3376.05,198.59,Loyal Customer
+C1017,Hyderabad,,2,2,0,188.4,94.2,Regular Customer
+C1018,Hyderabad,34,15,15,0,3156.9,210.46,Loyal Customer
+C1019,Hyderabad,48,5,4,1,3606.45,721.29,Loyal Customer
+C1020,DELHI,44,28,23,3,5228.4,186.73,High Value
+C1021,hyderabad,44,7,6,1,1476.5,210.93,Loyal Customer
+C1022, Pune ,40,2,2,0,124.2,62.1,Regular Customer
+C1023,Pune,33,25,20,5,4688.45,187.54,Loyal Customer
+C1024,Hyderabad,47,7,7,0,10444.15,1492.02,High Value
+C1025,Pune,25,3,2,1,501.0,167.0,Regular Customer
+C1026,PUNE,30,1,1,0,72.0,72.0,Regular Customer
+C1027,Pune,42,3,3,0,327.3,109.1,Regular Customer
+C1028,Chennai,27,5,4,1,1047.0,209.4,Loyal Customer
+C1029,Pune,24,8,7,1,778.45,97.31,Loyal Customer
+C1030,Hyderabad,26,7,7,0,3565.55,509.36,Loyal Customer
+C1031,Pune,29,6,6,0,5778.5,963.08,High Value
+C1032, Chennai ,28,5,5,0,6889.15,1377.83,High Value
+C1033,Chennai,49,20,18,2,2456.35,122.82,Loyal Customer
+C1034,Hyderabad,24,3,3,0,655.5,218.5,Regular Customer
+C1035,Pune,48,3,2,1,924.0,308.0,Regular Customer
+C1036,Chennai,33,2,2,0,328.5,164.25,Regular Customer
+C1037,Chennai,,3,3,0,227.0,75.67,Regular Customer
+C1038,Delhi,33,2,2,0,441.0,220.5,Regular Customer
+C1039,Pune,,8,7,1,5415.25,676.91,High Value
+C1040, Pune ,57,3,1,1,835.0,278.33,Regular Customer
+C1041,Delhi,27,0,0,0,0.0,0,New Customer
+C1042,Delhi,53,21,19,0,4134.1,196.86,Loyal Customer
+C1043,Delhi,28,16,15,0,3558.45,222.4,Loyal Customer
+C1044,pune,42,7,7,0,6982.55,997.51,High Value
+C1045,Hyderabad,58,5,5,0,2965.05,593.01,Loyal Customer
+C1046,Delhi,39,3,2,1,215.1,71.7,Regular Customer
+C1047, Hyderabad ,36,15,14,0,1651.9,110.13,Loyal Customer
+C1048,DELHI,54,3,3,0,446.0,148.67,Regular Customer
+C1049,delhi,26,27,24,3,4683.9,173.48,Loyal Customer
+C1050,Pune,27,3,2,1,257.75,85.92,Regular Customer
+C1051,BENGALURU,60,2,2,0,316.8,158.4,Regular Customer
+C1052,DELHI,35,1,0,1,209.0,209.0,Regular Customer
+C1053,Mumbai,39,2,1,0,425.0,212.5,Regular Customer
+C1054, Delhi ,60,2,1,1,211.5,105.75,Regular Customer
+C1055,Pune,43,7,7,0,1319.5,188.5,Loyal Customer
+C1056,Delhi,43,3,3,0,388.0,129.33,Regular Customer
+C1057,Pune,48,22,18,4,3128.0,142.18,Loyal Customer
+C1058,Delhi,54,23,20,2,4367.4,189.89,Loyal Customer
+C1059,Hyderabad,24,11,11,0,7107.35,646.12,High Value
+C1060,Delhi,58,20,16,4,2930.0,146.5,Loyal Customer
+C1061, Pune ,59,1,1,0,34.8,34.8,Regular Customer
+C1062,Pune,,8,6,1,1958.7,244.84,Loyal Customer
+C1063,hyderabad,55,19,14,4,2119.45,111.55,Loyal Customer
+C1064,Pune,45,23,17,3,4239.75,184.34,Loyal Customer
+C1065,Hyderabad,43,2,2,0,103.0,51.5,Regular Customer
+C1066,Pune,49,5,4,1,571.3,114.26,Loyal Customer
+C1067,chennai,,6,6,0,2486.2,414.37,Loyal Customer
+C1068,Chennai,23,29,24,5,5243.95,180.83,High Value
+C1069,bengaluru,28,20,18,1,4764.35,238.22,Loyal Customer
+C1070,Hyderabad,36,2,2,0,378.0,189.0,Regular Customer
+C1071,chennai,52,2,1,0,231.3,115.65,Regular Customer
+C1072,BENGALURU,31,23,21,2,3380.65,146.98,Loyal Customer
+C1073,delhi,22,3,3,0,420.4,140.13,Regular Customer
+C1074, Pune ,27,20,18,2,2324.85,116.24,Loyal Customer
+C1075, Delhi ,50,2,1,1,248.0,124.0,Regular Customer
+C1076,Bengaluru,22,5,2,2,949.6,189.92,Loyal Customer
+C1077, Chennai ,35,24,22,2,3820.65,159.19,Loyal Customer
+C1078,delhi,24,4,4,0,1285.85,321.46,Regular Customer
+C1079,Bengaluru,36,22,19,0,4655.95,211.63,Loyal Customer
+C1080,hyderabad,52,31,27,4,5493.75,177.22,High Value
+C1081,Pune,27,8,7,1,7414.25,926.78,High Value
+C1082,Delhi,33,17,17,0,2687.9,158.11,Loyal Customer
+C1083,Pune,36,0,0,0,0.0,0,New Customer
+C1084,chennai,38,3,3,0,233.8,77.93,Regular Customer
+C1085,Pune,36,6,5,1,9171.4,1528.57,High Value
+C1086,Chennai,49,4,3,1,2045.8,511.45,Potential High Value
+C1087,Pune,18,2,2,0,512.4,256.2,Regular Customer
+C1088,Pune,51,4,4,0,604.5,151.12,Regular Customer
+C1089,Delhi,29,3,2,1,1155.5,385.17,Regular Customer
+C1090,Bengaluru,39,5,3,1,2997.75,599.55,Loyal Customer
+C1091,Chennai,58,12,12,0,1237.2,103.1,Loyal Customer
+C1092, Delhi ,49,3,3,0,760.8,253.6,Regular Customer
+C1093,Chennai,40,19,18,0,3138.85,165.2,Loyal Customer
+C1094,Mumbai,50,5,4,1,4050.4,810.08,Loyal Customer
+C1095,bengaluru,43,26,26,0,4852.6,186.64,Loyal Customer
+C1096,Bengaluru,46,28,23,5,5232.3,186.87,High Value
+C1097,chennai,30,1,1,0,379.05,379.05,Regular Customer
+C1098,Delhi,60,4,4,0,6644.5,1661.12,Potential High Value
+C1099,Chennai,43,3,3,0,1323.05,441.02,Regular Customer
+C1100,PUNE,27,4,2,2,842.8,210.7,Regular Customer
+C1101,BENGALURU,45,6,5,1,944.5,157.42,Loyal Customer
+C1102,Bengaluru,33,9,8,1,8201.6,911.29,High Value
+C1103,Pune,33,2,2,0,202.5,101.25,Regular Customer
+C1104,delhi,55,3,3,0,504.6,168.2,Regular Customer
+C1105,Delhi,,3,1,2,582.0,194.0,Regular Customer
+C1106,bengaluru,32,3,3,0,485.0,161.67,Regular Customer
+C1107,chennai,44,15,13,2,2336.0,155.73,Loyal Customer
+C1108,MUMBAI,36,5,5,0,834.8,166.96,Loyal Customer
+C1109,Bengaluru,37,28,26,1,3820.45,136.44,Loyal Customer
+C1110, Hyderabad ,55,23,21,2,4298.6,186.9,Loyal Customer
+C1111,Pune,58,1,0,1,440.0,440.0,Regular Customer
+C1112,pune,57,6,5,0,5620.4,936.73,High Value
+C1113,Delhi,53,3,3,0,2760.45,920.15,Potential High Value
+C1114,HYDERABAD,22,6,5,1,4747.8,791.3,Loyal Customer
+C1115,Delhi,20,3,3,0,294.4,98.13,Regular Customer
+C1116,HYDERABAD,28,3,3,0,352.95,117.65,Regular Customer
+C1117,Pune,54,6,5,0,7042.2,1173.7,High Value
+C1118,mumbai,32,26,19,7,3091.25,118.89,Loyal Customer
+C1119,Chennai,58,21,19,2,3737.9,178.0,Loyal Customer
+C1120,Bengaluru,31,15,12,1,3866.0,257.73,Loyal Customer
+C1121,Delhi,23,4,4,0,770.25,192.56,Regular Customer
+C1122,MUMBAI,58,25,21,4,3749.2,149.97,Loyal Customer
+C1123,Pune,55,3,2,0,3002.1,1000.7,Potential High Value
+C1124,DELHI,46,13,12,1,1855.8,142.75,Loyal Customer
+C1125,Mumbai,27,6,5,0,495.1,82.52,Loyal Customer
+C1126,bengaluru,49,9,8,1,8864.8,984.98,High Value
+C1127,Delhi,56,6,5,1,5491.0,915.17,High Value
+C1128, Chennai ,51,1,1,0,126.0,126.0,Regular Customer
+C1129,Mumbai,18,3,3,0,2902.85,967.62,Potential High Value
+C1130,Pune,,20,16,2,4199.85,209.99,Loyal Customer
+C1131, Bengaluru ,30,5,4,1,1487.8,297.56,Loyal Customer
+C1132,chennai,52,4,4,0,4776.9,1194.22,Potential High Value
+C1133, Delhi ,44,21,17,3,3701.0,176.24,Loyal Customer
+C1134,Mumbai,32,24,19,4,5576.1,232.34,High Value
+C1135,Chennai,40,20,18,2,3564.85,178.24,Loyal Customer
+C1136,Hyderabad,39,6,6,0,9650.25,1608.38,High Value
+C1137,Chennai,35,19,18,1,3833.9,201.78,Loyal Customer
+C1138,chennai,59,2,2,0,342.0,171.0,Regular Customer
+C1139, Delhi ,35,34,29,5,5685.05,167.21,High Value
+C1140, Delhi ,44,24,23,1,4347.15,181.13,Loyal Customer
+C1141,Hyderabad,49,20,20,0,3163.9,158.19,Loyal Customer
+C1142, Chennai ,32,20,20,0,5120.95,256.05,High Value
+C1143,delhi,25,16,13,3,2828.8,176.8,Loyal Customer
+C1144,Pune,33,2,1,1,114.0,57.0,Regular Customer
+C1145,Hyderabad,45,26,22,3,4337.6,166.83,Loyal Customer
+C1146,Mumbai,27,7,6,1,9306.9,1329.56,High Value
+C1147,bengaluru,37,12,9,3,10673.1,889.43,High Value
+C1148,Delhi,20,5,5,0,3155.45,631.09,Loyal Customer
+C1149,Delhi,47,2,2,0,161.4,80.7,Regular Customer
+C1150,hyderabad,51,24,19,4,2869.2,119.55,Loyal Customer
+C1151,Bengaluru,53,23,20,2,3029.4,131.71,Loyal Customer
+C1152,bengaluru,28,26,21,5,3462.35,133.17,Loyal Customer
+C1153,Mumbai,,4,4,0,2490.9,622.72,Potential High Value
+C1154,bengaluru,30,3,3,0,477.2,159.07,Regular Customer
+C1155,Chennai,54,25,19,4,5047.2,201.89,High Value
+C1156, Pune ,36,6,4,2,6703.1,1117.18,High Value
+C1157,mumbai,24,3,2,0,2132.2,710.73,Potential High Value
+C1158,Pune,55,1,1,0,33.6,33.6,Regular Customer
+C1159,Hyderabad,32,1,1,0,108.0,108.0,Regular Customer
+C1160, Bengaluru ,51,2,1,1,141.0,70.5,Regular Customer
+C1161,Mumbai,20,3,3,0,374.0,124.67,Regular Customer
+C1162,Bengaluru,54,1,1,0,183.75,183.75,Regular Customer
+C1163,mumbai,23,3,3,0,664.05,221.35,Regular Customer
+C1164,Delhi,23,17,13,3,2857.9,168.11,Loyal Customer
+C1165,Bengaluru,59,0,0,0,0.0,0,New Customer
+C1166,Hyderabad,57,20,19,1,2329.8,116.49,Loyal Customer
+C1167,pune,44,24,23,1,2482.6,103.44,Loyal Customer
+C1168,Mumbai,,3,3,0,488.6,162.87,Regular Customer
+C1169,Delhi,42,3,2,1,646.0,215.33,Regular Customer
+C1170, Mumbai ,24,3,3,0,393.0,131.0,Regular Customer
+C1171,Bengaluru,56,14,11,3,9649.75,689.27,High Value
+C1172,delhi,27,17,14,1,3147.6,185.15,Loyal Customer
+C1173,Pune,45,5,4,1,395.75,79.15,Loyal Customer
+C1174,Pune,23,14,13,1,1900.9,135.78,Loyal Customer
+C1175, Delhi ,60,26,21,4,5122.45,197.02,High Value
+C1176,Pune,30,4,4,0,762.5,190.62,Regular Customer
+C1177,hyderabad,40,2,2,0,404.0,202.0,Regular Customer
+C1178,Mumbai,57,3,3,0,370.5,123.5,Regular Customer
+C1179,Hyderabad,38,3,2,1,196.0,65.33,Regular Customer
+C1180,Mumbai,26,2,1,1,86.8,43.4,Regular Customer
+C1181,Mumbai,52,7,6,1,7493.0,1070.43,High Value
+C1182,Hyderabad,18,5,5,0,1228.5,245.7,Loyal Customer
+C1183,Hyderabad,59,2,2,0,4447.25,2223.62,Potential High Value
+C1184,Hyderabad,25,2,2,0,143.6,71.8,Regular Customer
+C1185,Pune,36,22,21,1,3629.1,164.96,Loyal Customer
+C1186,pune,24,3,3,0,601.0,200.33,Regular Customer
+C1187,Hyderabad,49,3,3,0,347.0,115.67,Regular Customer
+C1188,Mumbai,44,6,6,0,2202.45,367.07,Loyal Customer
+C1189,Bengaluru,47,0,0,0,0.0,0,New Customer
+C1190,Chennai,60,24,20,3,2186.3,91.1,Loyal Customer
+C1191,Mumbai,19,26,23,2,5395.0,207.5,High Value
+C1192,Hyderabad,53,4,4,0,252.9,63.23,Regular Customer
+C1193,mumbai,29,2,1,1,130.5,65.25,Regular Customer
+C1194,Mumbai,25,4,3,1,577.6,144.4,Regular Customer
+C1195,Hyderabad,19,18,15,3,2780.25,154.46,Loyal Customer
+C1196,Pune,54,3,3,0,339.0,113.0,Regular Customer
+C1197,Bengaluru,59,26,23,3,4729.6,181.91,Loyal Customer
+C1198,Delhi,,18,18,0,2803.2,155.73,Loyal Customer
+C1199,Bengaluru,36,4,4,0,3861.85,965.46,Potential High Value
+C1200,Mumbai,49,26,20,4,3714.6,142.87,Loyal Customer
